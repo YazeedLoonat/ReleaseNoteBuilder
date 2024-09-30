@@ -1,0 +1,12 @@
+{
+  "name": "release_note_builder",
+  "version": "1.0.0",
+  "description": "automatically builds the release notes for Bloom",
+  "main": "index.js",
+  "author": "Yazeed Loonat <yazeedloonat@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "octokit": "^4.0.2"
+  },
+  "type": "module"
+}
